@@ -1,5 +1,12 @@
 """
 書誌レコード一致判定のコア関数モジュール
+
+MIT License
+
+See the LICENSE file in the project root for license information.
+
+Copyright (c) 2025 kota-okayama
+
 """
 import os
 import time
